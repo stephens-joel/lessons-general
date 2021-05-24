@@ -1,6 +1,4 @@
-#### Lesson 5: Common Computer Tasks
-
-/en/windowsbasics/finding-files-on-your-computer/content/
+Lesson 05: Common Computer Tasks
 
 ### Common computer tasks
 
@@ -82,5 +80,3 @@ Let's say you're working on a text document and accidentally delete some text. F
 Note that the Undo command will work almost all of the time, but not in every situation. For example, if you empty the Recycle Bin to permanently delete a file, you can't undo the action.
 
 Now you know some of the most commonly used commands, which you'll be able to use in almost any application on your computer. As we mentioned earlier in this lesson, you can also use **keyboard shortcuts** to perform these commands even faster. We'll talk more about keyboard shortcuts in our lesson on [Keyboard Shortcuts in Windows](http://www.gcflearnfree.org/windowsbasics/keyboard-shortcuts-in-windows/1/).
-
-/en/windowsbasics/adjusting-your-settings/content/

@@ -1,7 +1,4 @@
-#### Lesson 3: Working with Files
-
-/en/windowsbasics/navigating-windows/content/
-
+Lesson 03: Working with Files
 ### Working with files
 
 Understanding how to work with **files and folders** is an important part of using your computer. Once you understand how files and folder work, you'll use them all the time. In this lesson, we'll show you the **absolute basics of working with files**, including how to **open** **files**, **move your files into folders**, and **delete** **files**.
@@ -162,5 +159,3 @@ Note that creating a shortcut does **not** create a duplicate copy of the folder
     
 
 You can also hold the **Alt** key on your keyboard, then click and drag the folder to the desktop to create a shortcut.
-
-/en/windowsbasics/finding-files-on-your-computer/content/

@@ -1,7 +1,4 @@
-#### Lesson 4: Finding Files on Your Computer
-
-/en/windowsbasics/working-with-files/content/
-
+Lesson 04: Finding Files on Your Computer
 ### Finding files on your computer
 
 In the [previous lesson](http://www.gcflearnfree.org/windowsbasics/working-with-files/1/), we talked about how folders can help to keep your files **organized**. However, there may be times when you have trouble **finding a certain file**. If this happens to you, don't panic! The file is probably still on your computer, and there are a few simple ways to find it. In this lesson, we'll show you different techniques you can use to find your files, including **searching** and looking in **common places**.
@@ -59,5 +56,3 @@ If you're still having trouble finding the file you need, here are some addition
     ![Microsoft Word](https://media.gcflearnfree.org/content/55e0919c24929be027950a02_08_28_2014/findingfiles_word.jpg "Microsoft Word")
     
 *   **Move and rename the file after finding it**. Once you've located the file, you may want to **move it to a related folder** so you can find it more easily in the future. For example, if the file is a picture, you might move it to your **Pictures** folder. You may also want to give it a file name that will be easy to remember. You can review our lesson on [Working with Files](http://www.gcflearnfree.org/windowsbasics/working-with-files/1/) to learn more about managing files.
-
-/en/windowsbasics/common-computer-tasks/content/

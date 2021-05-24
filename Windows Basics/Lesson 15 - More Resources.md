@@ -1,6 +1,4 @@
-#### Lesson 15: More Resources
-
-/en/windowsbasics/why-you-should-upgrade-to-windows-10/content/
+Lesson 15: More Resources
 
 ### More resources
 
@@ -35,6 +33,4 @@ Microsoft has also created some free, high-quality tutorials you can use:
 
 *   [Windows 10, 8.1, and 7 help](https://support.microsoft.com/en-us/products/windows?os=windows-10)
 
-![finding Windows help for 10, 8.1, and 7](https://media.gcflearnfree.org/content/55e091a124929be027950a07_09_02_2014/more_resources_windows10_8.1_7.jpg "finding Windows help for 10, 8.1, and 7")  
-
-/en/windowsbasics/windows-basics-quiz/content/
+![finding Windows help for 10, 8.1, and 7](https://media.gcflearnfree.org/content/55e091a124929be027950a07_09_02_2014/more_resources_windows10_8.1_7.jpg "finding Windows help for 10, 8.1, and 7")

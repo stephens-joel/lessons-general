@@ -1,6 +1,4 @@
-#### Lesson 2: Navigating Windows
-
-/en/windowsbasics/all-about-windows/content/
+Lesson 02: Navigating Windows
 
 ### Navigating Windows
 
@@ -175,6 +173,4 @@ If you have a laptop, you can simply **close the lid** to put it into Sleep mode
 
 #### Waking your computer from Sleep mode
 
-If your computer is in Sleep mode, you'll need to **wake** **it** to use it. To wake the computer from Sleep mode, click the mouse or press any key on the keyboard.  
-
-/en/windowsbasics/working-with-files/content/
+If your computer is in Sleep mode, you'll need to **wake** **it** to use it. To wake the computer from Sleep mode, click the mouse or press any key on the keyboard. 

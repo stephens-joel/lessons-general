@@ -1,6 +1,4 @@
-#### Lesson 10: Opening Files with Different Applications
-
-/en/windowsbasics/common-applications-in-windows/content/
+Lesson 10: Opening Files with Different Applications
 
 ### Opening files with different applications
 
@@ -47,5 +45,3 @@ You may prefer to change the **default application** for certain types of files 
     
     ![file opens in a different application](https://media.gcflearnfree.org/content/55e091a024929be027950a06_09_02_2014/diff_change_done.jpg "file opens in a different application")
     
-
-/en/windowsbasics/working-with-flash-drives/content/

@@ -1,6 +1,4 @@
-#### Lesson 14: Why You Should Upgrade to Windows 10
-
-/en/windowsbasics/how-to-survive-the-end-of-windows-xp-support/content/
+Lesson 14: Why You Should Upgrade to Windows 10
 
 ### Why you should upgrade to Windows 10
 
@@ -19,5 +17,3 @@ If you're happy with your current version of Windows, you might be wondering **w
 Perhaps most importantly, Windows 10 will also continue to be supported by Microsoft for [much longer](http://windows.microsoft.com/en-us/windows/lifecycle) than Windows 7 or Windows 8. That's why we **strongly recommend** taking advantage of the free upgrade offer before it expires. As with any major operating system update, we also recommend [backing up your files](http://www.gcflearnfree.org/techsavvy/backing-up-your-files/1/) before upgrading.
 
 Review our lesson on [Upgrading to Windows 10](http://www.gcflearnfree.org/windows10/upgrading-to-windows-10/1/) to learn more.
-
-/en/windowsbasics/more-resources/content/
