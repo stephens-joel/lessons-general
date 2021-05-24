@@ -1,6 +1,4 @@
-#### Lesson 9: Common Applications in Windows
-
-/en/windowsbasics/keyboard-shortcuts-in-windows/content/
+Lesson 09: Common Applications in Windows
 
 ### Common applications in Windows
 
@@ -45,5 +43,3 @@ Windows 8 and Windows 10 include several productivity apps that can help you wit
 The **Control Panel** is where you can adjust your computer's settings and configurations. The **Settings** app, introduced in Windows 8, gives you access to most of your computer's settings but is designed in a new tablet style instead of the classic Windows style.  
 
 ![Control Panel in Windows 10](https://media.gcflearnfree.org/content/560ed906557fa909dc9cf5a4_10_02_2015/commonapps_windows_control_panel.jpg "Control Panel in Windows 10")
-
-/en/windowsbasics/opening-files-with-different-applications/content/

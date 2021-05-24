@@ -1,7 +1,4 @@
-#### Lesson 11: Working with Flash Drives
-
-/en/windowsbasics/opening-files-with-different-applications/content/
-
+Lesson 11: Working with Flash Drives
 ### What is a flash drive?
 
 A flash drive is a **small, removable hard drive** that plugs into a **USB** **port** on your computer. You can purchase a flash drive for less than $20 at just about any retail store with an electronics department, and even at some grocery stores and pharmacies. Flash drives are a convenient way to **bring your files with you** and open them on a different computer. You could also use a flash drive to **back up** important documents and other files. In this lesson, we'll show you how to use a flash drive with your computer.
@@ -50,5 +47,3 @@ When you're done using a flash drive, don't remove it from the USB port just yet
     ![disconnecting the flash drive](https://media.gcflearnfree.org/content/55e091a224929be027950a08_09_08_2014/workingwithfiles_disconnect.jpg "disconnecting the flash drive")
     
 2.  You can now safely remove the flash drive from the USB port.
-
-/en/windowsbasics/troubleshooting-basic-problems/content/

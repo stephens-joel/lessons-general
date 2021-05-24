@@ -1,4 +1,4 @@
-#### Lesson 1: All About Windows
+Lesson 01: All About Windows
 
 ### All about Windows
 
@@ -28,5 +28,3 @@ This tutorial is designed to show you the **absolute basics of using a Windows c
 While most versions of Windows are relatively similar, Windows 8 works **very differently** from other versions. However, if you have Windows 8 on your computer, you should now be able to upgrade to Windows 10, which is more similar to earlier versions, including Windows 7. We recommend upgrading your computer to Windows 10 if you can. Review our [Windows 10 tutorial](http://www.gcflearnfree.org/windows10) to learn how.
 
 However, we'll still point out any **major** **differences** between Windows 8 and other versions, which means you'll see some Windows 8-specific information from time to time. If your computer uses Windows 8, you'll want to review both this tutorial and our [Windows 8](http://www.gcflearnfree.org/windows8) tutorial to learn more about the differences.
-
-/en/windowsbasics/navigating-windows/content/

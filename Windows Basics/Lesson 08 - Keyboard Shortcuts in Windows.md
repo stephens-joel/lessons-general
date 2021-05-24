@@ -1,6 +1,4 @@
-#### Lesson 8: Keyboard Shortcuts in Windows
-
-/en/windowsbasics/understanding-user-accounts/content/
+Lesson 08: Keyboard Shortcuts in Windows
 
 ### Keyboard shortcuts in Windows
 
@@ -85,5 +83,3 @@ In some applications, you may need to hover over a button to display its keyboar
 ![shortcut appears after hovering over it](https://media.gcflearnfree.org/content/55e0919d24929be027950a03_08_28_2014/keyboardshortcuts_button.jpg "shortcut appears after hovering over it")
 
 If you want to learn even more keyboard shortcuts, review [this lesson](http://www.gcflearnfree.org/techsavvy/keyboard-shortcuts) from our [Tech Savvy Tips and Tricks](http://www.gcflearnfree.org/techsavvy) tutorial.
-
-/en/windowsbasics/common-applications-in-windows/content/

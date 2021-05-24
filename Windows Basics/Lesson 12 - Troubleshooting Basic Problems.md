@@ -1,6 +1,4 @@
-#### Lesson 12: Troubleshooting Basic Problems
-
-/en/windowsbasics/working-with-flash-drives/content/
+Lesson 12: Troubleshooting Basic Problems
 
 ### Introduction
 
@@ -72,5 +70,3 @@ Sometimes your computer may become completely unresponsive, or frozen. When this
     
 *   **Solution 3**: Check the cables. Make sure external speakers are plugged in, turned on, and connected to the correct audio port or a USB port. If your computer has **color-coded** ports, the audio output port will usually be **green**.
 *   **Solution 4**: Connect headphones to the computer to determine if you can hear sound from the headphones.
-
-/en/windowsbasics/how-to-survive-the-end-of-windows-xp-support/content/

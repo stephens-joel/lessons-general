@@ -1,6 +1,4 @@
-#### Lesson 13: How to Survive the End of Windows XP Support
-
-/en/windowsbasics/troubleshooting-basic-problems/content/
+Lesson 13: How to Survive the End of Windows XP Support
 
 ### How to survive the end of Windows XP support
 
@@ -37,5 +35,3 @@ If you're willing to purchase a new computer, certain manufacturers—including 
 #### Wait, I have more questions!
 
 We hope this answers some of the basic questions you may have about the end of Windows XP support. You can always contact Microsoft directly with questions in the **[Microsoft Community Forum](http://answers.microsoft.com/en-us/windows/forum/windows_xp?WT.mc_id=SMCPSC_ENGB_TXT_ANS&auth=1)**.
-
-/en/windowsbasics/why-you-should-upgrade-to-windows-10/content/
