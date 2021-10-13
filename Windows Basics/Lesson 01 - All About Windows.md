@@ -4,7 +4,7 @@ Lesson 01: All About Windows
 
 Windows is an **operating system** designed by Microsoft. The operating system is what allows you to use a computer. Windows comes **preloaded** on most new personal computers (PCs), which helps to make it the most popular operating system in the world.
 
-Windows makes it possible to complete all types of **everyday tasks** on your computer. For example, you can use Windows to browse the Internet, check your email, edit digital photos, listen to music, play games, and do much more.  
+Windows makes it possible to complete all types of **everyday tasks** on your computer. For example, you can use Windows to browse the internet, check your email, edit digital photos, listen to music, play games, and do much more.  
 
 ![Windows 10 desktop interface](https://media.gcflearnfree.org/content/55e0918024929be0279509ff_08_28_2014/allaboutwindows_desktop.jpg "Windows 10 desktop interface")
 
@@ -25,6 +25,6 @@ This tutorial is designed to show you the **absolute basics of using a Windows c
 
 #### Windows 8 vs. other versions
 
-While most versions of Windows are relatively similar, Windows 8 works **very differently** from other versions. However, if you have Windows 8 on your computer, you should now be able to upgrade to Windows 10, which is more similar to earlier versions, including Windows 7. We recommend upgrading your computer to Windows 10 if you can. Review our [Windows 10 tutorial](http://www.gcflearnfree.org/windows10) to learn how.
+While most versions of Windows are relatively similar, Windows 8 works **very differently** from other versions. However, if you have Windows 8 on your computer, you should now be able to upgrade to Windows 10, which is more similar to earlier versions, including Windows 7. We recommend upgrading your computer to Windows 10 or 11 if you can. Review our [Windows 10 tutorial](http://www.gcflearnfree.org/windows10) to learn how.
 
 However, we'll still point out any **major** **differences** between Windows 8 and other versions, which means you'll see some Windows 8-specific information from time to time. If your computer uses Windows 8, you'll want to review both this tutorial and our [Windows 8](http://www.gcflearnfree.org/windows8) tutorial to learn more about the differences.
